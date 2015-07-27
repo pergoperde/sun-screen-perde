@@ -1,0 +1,2 @@
+# sun-screen-perde
+Sun Screen Perdeler bir stor perde modelidir. Ancak enerji tasarrufu konusunda oldukça gelişmiş bir yapıya sahip olduklarından ekonomik perde sınıfına girer. Sun Screen perdeler özel kumaş yapısı sayesinde iç mekanların gün ışığı alımını kontrol etme konusunda oldukça başarılır. Güneş ışınları, direkt olarak etkiledikleri ev tekstil ürünlerinin kısa sürede solmasına, elektronik eşyaların kolayca ısınmasına, parke ve mobilyaların deformasyonuna, en önemlisi insanı rahatsız eden sebeplere neden olmaktadır. - http://www.pergoperde.com.tr/#!sun-screen/
